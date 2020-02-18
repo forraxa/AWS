@@ -1,2 +1,2 @@
-## S3 Glacier Ebs Efs  
+## Simple storage S3, Glacier, Ebs y Efs  
 
